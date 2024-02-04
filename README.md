@@ -1,6 +1,6 @@
 # PyGame.
 Dev#4 hackaton Game project that is a 2D runner game.
-MVP is a game where the player can walk right, left and jump (like in Mario). You should jump over obstacles and blocks. if you fall or touch spikes - you die.
+MVP is a game where the player can walk right, left and jump (like in Mario). You should jump over obstacles and blocks. if you fall or touch spikes - you restart or finish the game.
 
 
 # Steps of work.
